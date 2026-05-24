@@ -1,5 +1,3 @@
-# The-Carbon-Exergy-Matrix
-
 # The Carbon Exergy Matrix: Ambient Solid-State Harvesting
 
 Developed by **Cheetah's Creations** 🌻  
@@ -27,12 +25,26 @@ This track models solid-state thermal energy storage and instantaneous high-effi
 
 ---
 
+## 🌍 Global Scaling & Alternative Applications
+
+While this sandbox initializes with nanoscale physics boundaries, the core mathematics are explicitly designed to adapt across key global energy frontiers:
+
+* **Ultra-Low Power Mesh Infrastructure:** Scaling the Brownian simulation framework to model multi-cell graphene matrix arrays capable of trickling static DC into localized agricultural sensors and decentralized rural mesh communication networks without batteries.
+* **Heavy Industrial Flue Co-Generation:** Utilizing inline thermal sleeves lined with synthetic graphite blocks and aligned CNT emitters to harvest massive high-temperature waste heat ($400^\circ\text{C}$ to $1200^\circ\text{C}$) from steel mills, glass-blowing kilns, and cement manufacturing factories.
+* **High-Fouling Geothermal Extraction:** Deploying open, fluidic transport channels lined with chemically inert, diamond-like carbon (DLC) coatings to harvest thermal energy directly from corrosive, mineral-heavy brine streams without mechanical turbine erosion or calcification fouling.
+* **Aerospace & Deep-Space Habitation:** Integrating solid-state near-field emitters into carbon-carbon composite structures to reclaim nuclear isotope or reactor core reject heat, providing vibration-resilient, maintenance-free life-support power options in zero-gravity environments.
+
+*(For detailed dimensioning, specific material allotrope scaling laws, and implementation rules across these sectors, see the full documentation in `APPLICATIONS.md`.)*
+
+---
+
 ## 📂 Repository Directory Structure
 
 ```text
 The-Carbon-Exergy-Matrix/
 ├── LICENSE.md                # CERN-OHL-S v2.0 (Strongly Reciprocal Open Hardware)
 ├── README.md                 # Master Architecture, Branding, & Carbon Allotrope Index
+├── APPLICATIONS.md           # Industrial/Automotive/Geothermal/Aerospace scaling rules
 └── variables/
     ├── graphene_brownian.py  # Simulates membrane ripple frequencies & Ito-Langevin equations
     └── near_field_tunneling.py# Models sub-micron evanescent photon flux & Planck deviations
