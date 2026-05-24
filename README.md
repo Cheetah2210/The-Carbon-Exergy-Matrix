@@ -48,3 +48,4 @@ The-Carbon-Exergy-Matrix/
 └── variables/
     ├── graphene_brownian.py          # Simulates membrane ripple frequencies & Ito-Langevin equations
     └── near_field_tunneling.py       # Models sub-micron evanescent photon flux & Planck deviations
+    └── THEORY_VARIABLES.md           # Physics-to-Code Parametric Ledger
