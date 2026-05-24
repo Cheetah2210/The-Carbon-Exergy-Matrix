@@ -42,9 +42,9 @@ While this sandbox initializes with nanoscale physics boundaries, the core mathe
 
 ```text
 The-Carbon-Exergy-Matrix/
-├── LICENSE.md                # CERN-OHL-S v2.0 (Strongly Reciprocal Open Hardware)
-├── README.md                 # Master Architecture, Branding, & Carbon Allotrope Index
-├── APPLICATIONS.md           # Industrial/Automotive/Geothermal/Aerospace scaling rules
+├── LICENSE.md                        # CERN-OHL-S v2.0 (Strongly Reciprocal Open Hardware)
+├── README.md                         # Master Architecture, Branding, & Carbon Allotrope Index
+├── APPLICATIONS.md                   # Industrial/Automotive/Geothermal/Aerospace scaling rules
 └── variables/
-    ├── graphene_brownian.py  # Simulates membrane ripple frequencies & Ito-Langevin equations
-    └── near_field_tunneling.py# Models sub-micron evanescent photon flux & Planck deviations
+    ├── graphene_brownian.py          # Simulates membrane ripple frequencies & Ito-Langevin equations
+    └── near_field_tunneling.py       # Models sub-micron evanescent photon flux & Planck deviations
